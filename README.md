@@ -13,7 +13,7 @@ The Open Source Smart Podium
 * Ubuntu 14.04 - for install help see (should work with 14.04 and 13.10): [http://www.intel.com/content/dam/www/public/us/en/documents/application-notes/atom-e38xx-n2xx-bay-trail-ubuntu-setup-app-note.pdf]
 
 ##Packages & Software##
-
+Follows this guide [https://help.ubuntu.com/community/UnityLaunchersAndDesktopFiles]
 
 Questions? Contact: 
 * tylerlehrlich@gmail.com
