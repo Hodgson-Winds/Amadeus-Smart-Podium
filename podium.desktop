@@ -2,8 +2,9 @@
 Version=1.0
 Name=Amadeus
 Comment=Enter The Smart Podium
-Exec=/home/caleb/Desktop/Amadeus-Smart-Podium/awesome_script.sh
+Exec=/home/caleb/Desktop/Amadeus-Smart-Podium/launcher.sh
 Icon=/home/caleb/Desktop/Amadeus-Smart-Podium/images/icon.png
 Terminal=false
 Type=Application
 Categories=Utility;Application;
+X-GNOME-Autostart-Delay=5

@@ -1,0 +1,15 @@
+Unable to connect to X server
+Unable to connect to X server
+Cannot parse arguments: Cannot open display: 
+Unable to connect to X server
+Unable to connect to X server
+Cannot parse arguments: Cannot open display: 
+Unable to connect to X server
+Unable to connect to X server
+Cannot parse arguments: Cannot open display: 
+Unable to connect to X server
+Unable to connect to X server
+Cannot parse arguments: Cannot open display: 
+Unable to connect to X server
+Unable to connect to X server
+Cannot parse arguments: Cannot open display: 
